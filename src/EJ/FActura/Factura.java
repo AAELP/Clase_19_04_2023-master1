@@ -88,6 +88,10 @@ package EJ.FActura;
         }
 
         public double calculoValorTotalPorPieza() {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0f7aaa0 (update)
             return (double)this.numeroelementos * this.valorUnidad;
         }
     }
